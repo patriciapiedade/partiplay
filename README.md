@@ -1,6 +1,18 @@
 # PartiPlay
 Play is a central aspect of childhood development, with games as a vital tool to promote it. However, neurodivergent children, especially those in neurodiverse environments, are underserved by HCI games research. Most existing work takes on a top-down approach, disregarding neurodivergent interest for the majority of the design process. Co-design is often proposed as a tool to create truly accessible and inclusive gaming experiences. Nevertheless, co-designing with neurodivergent children within neurodiverse groups brings about unique challenges, such as diferent communication styles, sensory needs and preferences. Building upon recommendations from prior work in neurodivergent, mixed-ability, and child-led co-design, we propose a concrete participatory game design kit for neurodiverse classrooms: PartiPlay
 
+## Contributors
+
+**Patricia Piedade**, University of Lisbon, [patricia.piedade@tecnico.ulisboa.pt](mailto:patricia.piedade@tecnico.ulisboa.pt)
+
+**Isabel Neto**, University of Lisbon, [isabel.neto@tecnico.ulisboa.pt](mailto:isabel.neto@tecnico.ulisboa.pt)
+
+**Ana Pires**, University of Lisbon, [ana.pires@iti.larsys.pt](mailto:ana.pires@iti.larsys.pt)
+
+**Rui Prada**, University of Lisbon, [rui.prada@tecnico.ulisboa.pt](mailto:rui.prada@tecnico.ulisboa.pt)
+
+**Hugo Nicolau**, University of Lisbon, [hugo.nicolau@tecnico.ulisboa.pt](mailto:hugo.nicolau@tecnico.ulisboa.pt)
+
 ## Structure
 This toolkit includes instructions for running 5 co-design sessions and worksheets that may be utilised to do so. With this toolkit researchers, teachers, educators, or other interested parties can run their own co-design sessions, changing and adapting materials when needed, and co-design their own games with neurodiverse groups of children. Please consult the accompanying [paper](https://dl.acm.org/doi/abs/10.1145/3597638.3614496) for more details on prior work, application, and evaluation.
 
